@@ -1,18 +1,21 @@
-import React from 'react'
-import './contacts.css'
+import React from 'react';
+import './contacts.css';
 
 const Contacts = () => {
+  const emailAddress = 'senurikaveesha39@example.com'; // Replace with your actual email address
+
   return (
     <div id='contact'>
-        <h1 className='contactPageTitle'>Contact me</h1>
-        <span className='contactDesc'>pls fillout the form below to dicuss my any work oppoortunity</span>
-        <form className='contactForm'>
-            <input type='text' className='name' placeholder='Your Name'/>
-            <input type='email' className='email' placeholder='Your email'/>
-            <textarea  className= 'msg'name='message' rows={5} placeholder='Your message'/>
-            <button className='submitBtn' type='submit' value='send'>Submit</button>
-        </form>
+      <h1 className='contactPageTitle'>Contact me</h1>
+      <span className='contactDesc'>Please contact me with the email below to discuss any work opportunities.</span>
+      <form className='contactForm'>
+        
+        <a href={`mailto:senurikaveesha39@gmail.com`} className='emailLink'>
+          Contact me via email
+        </a>
+      </form>
     </div>
-  )
-}
-export default Contacts
+  );
+};
+
+export default Contacts;

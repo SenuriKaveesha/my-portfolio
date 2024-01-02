@@ -12,6 +12,15 @@ const Skills = () => {
 and being a part of a challenging team that works to improve the
 organization's growth.</span>
         <div className='skillBars'>
+        <div className='skillBar'>
+                <img src={Cloud} alt='Devops' className='skillBarImg'/>
+                <div className='skillBarText'>
+                    <h2>Devops engineer</h2>
+                    <p>docker, kubernites, aws, azure related</p>
+                </div>
+            </div>
+
+
             <div className='skillBar'>
                 <img src={Cloud} alt='Cloud' className='skillBarImg'/>
                 <div className='skillBarText'>

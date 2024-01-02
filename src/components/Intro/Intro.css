@@ -40,11 +40,13 @@
     letter-spacing: 1px;
 }
 .btn {
-    background: white;
+    background: rgb(241, 241, 241);
     margin: 1rem 0;
     padding: 0.75rem 1-5rem;
     border: none;
     border-radius: 2rem;
+    height: 2rem;
+    width: 25vw;
 }
 .btnImg {
     object-fit: cover;

@@ -37,12 +37,21 @@
     border-radius: 0.5rem;
     background: rgb(30, 33, 64);
 }
+.h21 {
+    color: rgb(43, 141, 226);
+    text-decoration: underline;
+    text-align: justify;
+}
 
 
 
 .skillBarText2>p {
     font-size: 0.9rem;
     font-weight: 50;
+}
+
+.gitlink {
+    color: rgb(121, 145, 161);
 }
 
 @media screen and (max-width:720px) 
