@@ -54,7 +54,7 @@ const Works = () => {
                     <p>Recommendation system using Machine Learning algorithmns and Data Mining concepts</p>
                     <p>python, streamlit, GitHub, google colab</p>
                     <br></br>
-                    <a className='gitlink' href='https://github.com/IT21925290/FDM_Mini_Project' target='_blank' rel='noopener noreferrer'>-------------GitHub Link--------------
+                    <a className='gitlink' href='https://github.com/IT21925290/IRWA_Project' target='_blank' rel='noopener noreferrer'>-------------GitHub Link--------------
               </a>
                 </div>
             </div>
@@ -67,7 +67,7 @@ const Works = () => {
                     <p>Stroke Prediction web application using Machine Learning Algorithmns</p>
                     <p>python, streamlit, GitHub, google colab</p>
                     <br></br>
-                    <a className='gitlink' href='https://github.com/IT21925290/IRWA_Project' target='_blank' rel='noopener noreferrer'>-------------GitHub Link--------------
+                    <a className='gitlink' href='https://github.com/IT21925290/FDM_Mini_Project' target='_blank' rel='noopener noreferrer'>-------------GitHub Link--------------
               </a>
                 </div>
             </div>
