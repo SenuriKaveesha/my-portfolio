@@ -13,7 +13,7 @@ const Intro = () => {
         <p className='introPara'>I'm eager to start a path of academic and
 professional development since I'm enthusiastic <br></br> about data science and want to use my degree to have a good impact on the information
 technology industry.</p>
-<Link><button className='btn'><img src={btnImg} alt='Hire me' className='btnImg'/>Hire me</button></Link>
+<Link><button className='btn'><img src={btnImg} alt='Download CV' className='btnImg'/>Hire me</button></Link>
 
       </div>
       <img src={bg} alt='Profile' className='bg'/>
