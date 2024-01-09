@@ -1,6 +1,6 @@
 import React from 'react'
 import './works.css'
-import { Link as ScrollLink } from 'react-scroll';
+
 
 
 const Works = () => {

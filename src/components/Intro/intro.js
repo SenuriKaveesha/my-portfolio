@@ -1,7 +1,6 @@
 import React from 'react';
 import './Intro.css';
 import bg from '../../assets/bg.png';
-import { Link } from 'react-scroll';
 import btnImg from '../../assets/contact.png';
 import cvPdf from '../../assets/Senuri_Kaveesha_CV.pdf'; // Replace with the actual path to your PDF file
 

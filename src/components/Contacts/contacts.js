@@ -2,7 +2,7 @@ import React from 'react';
 import './contacts.css';
 
 const Contacts = () => {
-  const emailAddress = 'senurikaveesha39@example.com'; // Replace with your actual email address
+  
 
   return (
     <div id='contact'>
