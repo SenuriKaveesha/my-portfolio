@@ -11,7 +11,7 @@ const Contacts = () => {
       <form className='contactForm'>
         
         <a href={`mailto:senurikaveesha39@gmail.com`} className='emailLink'>
-          Contact me via email
+          Contact me via email.
         </a>
       </form>
     </div>
